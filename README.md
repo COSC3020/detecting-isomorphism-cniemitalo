@@ -20,6 +20,6 @@ The worst case would require my program to check every permutation to determine 
 
 ### Sources and Plagiarism
 
-ChatGPT helped me determine how to create permutations of the graph and check them against the original graph 
+ChatGPT helped me determine how to create permutations of the graph and check them against the original graph, by helping me restructure how I was generating the permutations of the graph as I was not taking the correct portions of the graph. It also helped me locate an error when checking these permutations against the original graph, as I was not iterating through the neighbors of the permutated graph properly, and gave a solution to access the neighboring vertices correctly. 
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
